@@ -1,2 +1,1 @@
-# Coursera_Introduction-to-Data-Science-in-Python
-an online course taught by Christopher Brooks in University of Michigan
+# Coursera_Introduction-to-Data-Science-in-Pythonan online course taught by Christopher Brooks in University of Michigan## The assignments help you know how to use Pandas packageif you have trouble doing some operations in Pandas, you could check Pandas_notes.ipynb in my repositoy : https://github.com/chordou/Note
